@@ -1,0 +1,49 @@
+Region,Quarter,Product,Revenue,Units_Sold,Profit_Margin,Customer_Satisfaction
+North,Q1 2024,Electronics,125000,450,0.18,4.2
+North,Q1 2024,Clothing,85000,320,0.22,4.5
+North,Q1 2024,Home Goods,62000,180,0.15,4.1
+North,Q2 2024,Electronics,142000,510,0.19,4.3
+North,Q2 2024,Clothing,92000,340,0.23,4.4
+North,Q2 2024,Home Goods,71000,195,0.16,4.2
+North,Q3 2024,Electronics,158000,580,0.20,4.4
+North,Q3 2024,Clothing,98000,360,0.24,4.6
+North,Q3 2024,Home Goods,78000,210,0.17,4.3
+North,Q4 2024,Electronics,175000,650,0.21,4.5
+North,Q4 2024,Clothing,105000,390,0.25,4.7
+North,Q4 2024,Home Goods,85000,230,0.18,4.4
+South,Q1 2024,Electronics,98000,380,0.17,4.1
+South,Q1 2024,Clothing,72000,290,0.21,4.3
+South,Q1 2024,Home Goods,58000,165,0.14,4.0
+South,Q2 2024,Electronics,115000,440,0.18,4.2
+South,Q2 2024,Clothing,81000,320,0.22,4.4
+South,Q2 2024,Home Goods,65000,185,0.15,4.1
+South,Q3 2024,Electronics,128000,490,0.19,4.3
+South,Q3 2024,Clothing,89000,350,0.23,4.5
+South,Q3 2024,Home Goods,72000,205,0.16,4.2
+South,Q4 2024,Electronics,142000,550,0.20,4.4
+South,Q4 2024,Clothing,95000,380,0.24,4.6
+South,Q4 2024,Home Goods,79000,225,0.17,4.3
+East,Q1 2024,Electronics,145000,520,0.19,4.3
+East,Q1 2024,Clothing,95000,360,0.23,4.5
+East,Q1 2024,Home Goods,71000,200,0.16,4.2
+East,Q2 2024,Electronics,162000,580,0.20,4.4
+East,Q2 2024,Clothing,108000,410,0.24,4.6
+East,Q2 2024,Home Goods,82000,230,0.17,4.3
+East,Q3 2024,Electronics,178000,640,0.21,4.5
+East,Q3 2024,Clothing,118000,450,0.25,4.7
+East,Q3 2024,Home Goods,91000,255,0.18,4.4
+East,Q4 2024,Electronics,195000,700,0.22,4.6
+East,Q4 2024,Clothing,128000,490,0.26,4.8
+East,Q4 2024,Home Goods,98000,275,0.19,4.5
+West,Q1 2024,Electronics,78000,310,0.16,4.0
+West,Q1 2024,Clothing,58000,240,0.20,4.2
+West,Q1 2024,Home Goods,45000,130,0.13,3.9
+West,Q2 2024,Electronics,92000,370,0.17,4.1
+West,Q2 2024,Clothing,68000,280,0.21,4.3
+West,Q2 2024,Home Goods,52000,150,0.14,4.0
+West,Q3 2024,Electronics,105000,420,0.18,4.2
+West,Q3 2024,Clothing,78000,320,0.22,4.4
+West,Q3 2024,Home Goods,59000,170,0.15,4.1
+West,Q4 2024,Electronics,118000,470,0.19,4.3
+West,Q4 2024,Clothing,85000,350,0.23,4.5
+West,Q4 2024,Home Goods,65000,190,0.16,4.2
